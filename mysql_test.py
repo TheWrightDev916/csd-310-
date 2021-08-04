@@ -1,3 +1,6 @@
+#Anthony Wright Jr
+#test connection for MySql
+
 import mysql.connector
 from mysql.connector import errorcode
 
