@@ -1,12 +1,12 @@
-#Anthony Wright Jr
-#test connection for MySql
+# Anthony Wright Jr - Assignment for module 8.2 - 07/27/21
+# Test connection for MySql
 
 import mysql.connector
 from mysql.connector import errorcode
 
 # database config object
 config = {
-    "user": "pysports_user",
+    "user": "root",
     "password": "wright916",
     "host": "localhost",
     "database": "pysports",
